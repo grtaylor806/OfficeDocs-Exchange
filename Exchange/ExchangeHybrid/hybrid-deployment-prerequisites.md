@@ -53,7 +53,7 @@ The following prerequisites are required for configuring a hybrid deployment:
     
     Hybrid deployments also support Exchange servers running the Edge Transport server role. Edge Transport servers also need to be updated to the latest cumulative update or update rollup available for the version of Exchange you've installed. We strongly recommend that you deploy Edge Transport servers in a perimeter network. Mailbox and Client Access servers can't be deployed in a perimeter network.
     
-- **Office 365** Hybrid deployments are supported in all Office 365 plans that support Azure Active Directory synchronization. All Office 365 Enterprise, Government, Academic and Midsize plans support hybrid deployments. Office 365 Business and Home plans don't support hybrid deployments. 
+- **Office 365** Hybrid deployments are supported in all Office 365 plans that support Azure Active Directory synchronization. All Office 365 Business, Enterprise, Government, Academic and Midsize plans support hybrid deployments. Office 365 Home plans don't support hybrid deployments. 
     
     Learn more at [Sign up for Office 365](https://go.microsoft.com/fwlink/p/?linkId=203981).
     
